@@ -1,1 +1,2 @@
 # odin-recipes
+This project is going to be a basic recipe website containing links to a few recipes with pictures. I do have some basic HTML and CSS knowledge but by the end of the this project I will have freshened up my skills and learned more git.

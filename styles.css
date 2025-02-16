@@ -1,0 +1,17 @@
+body {background-color: mistyrose;
+
+}
+
+header {
+    text-align: center; margin: auto; font-size: 4rem; color: white; text-shadow: 5px 5px 5px red, 5px 5px 5px red;
+    background-color: black;
+}
+
+h1 {
+
+}
+
+nav {text-align: left;
+    margin: auto;
+    
+}
